@@ -26,20 +26,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Booking.Specs/Repositories/GuestRepositoryTests.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1560364110356" expanded="true" signature="0:1705" ph="/* using System; ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Booking/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="360">
               <caret line="44" column="47" selection-start-line="44" selection-start-column="6" selection-end-line="46" selection-end-column="76" />
               <folding>
                 <marker date="1560331677592" expanded="false" signature="6:683" ph="..." />
@@ -57,6 +46,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Booking.Core/Services/IReservationService.cs" root0="FORCE_HIGHLIGHTING" />
@@ -83,7 +75,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/16/420f12db/Task.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/bb/d7fa0ad2/String.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/b2/3461aaae/ReadOnlySpan`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Booking.Specs/Repositories/GuestRepositoryTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Booking/Controllers/PdfCreatorController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/58/d048c275/MemoryMarshal.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Booking/Utility/TemplateGenerator.cs" root0="FORCE_HIGHLIGHTING" />
@@ -186,6 +177,7 @@
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -230,23 +222,6 @@
               <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Booking.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Repository" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Specs" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Specs" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Specs" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Repositories" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -344,12 +319,12 @@
       <workItem from="1560270648732" duration="8414000" />
       <workItem from="1560280981809" duration="845000" />
       <workItem from="1560283268539" duration="3624000" />
-      <workItem from="1560290514872" duration="32177000" />
+      <workItem from="1560290514872" duration="32365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80584000" />
+    <option name="totallyTimeSpent" value="80772000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,7 +337,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-650" y="-1080" width="2560" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12152502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -3327,24 +3301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Booking/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="44" column="47" selection-start-line="44" selection-start-column="6" selection-end-line="46" selection-end-column="76" />
-          <folding>
-            <marker date="1560331677592" expanded="false" signature="6:683" ph="..." />
-            <marker date="1560331677592" expanded="true" signature="703:2433" ph="{...}" />
-            <marker date="1560331677592" expanded="true" signature="728:2431" ph="{...}" />
-            <marker date="1560331677592" expanded="true" signature="781:830" ph="{...}" />
-            <marker date="1560331677592" expanded="true" signature="1041:1660" ph="{...}" />
-            <marker date="1560331677592" expanded="true" signature="1840:2427" ph="{...}" />
-            <marker date="1560331677592" expanded="true" signature="1877:1934" ph="{...}" />
-            <marker date="1560331677592" expanded="true" signature="1945:1984" ph="{...}" />
-            <marker date="1560331677592" expanded="true" signature="2229:2399" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45B80AE8-5287-4889-B763-035D637BFDDC/73/e33f0a4f/ServiceProvider.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -3394,10 +3350,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Booking.Specs/Repositories/GuestRepositoryTests.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Booking/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="360">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="6" selection-end-line="46" selection-end-column="76" />
           <folding>
-            <marker date="1560364110356" expanded="true" signature="0:1705" ph="/* using System; ... */" />
+            <marker date="1560331677592" expanded="false" signature="6:683" ph="..." />
+            <marker date="1560331677592" expanded="true" signature="703:2433" ph="{...}" />
+            <marker date="1560331677592" expanded="true" signature="728:2431" ph="{...}" />
+            <marker date="1560331677592" expanded="true" signature="781:830" ph="{...}" />
+            <marker date="1560331677592" expanded="true" signature="1041:1660" ph="{...}" />
+            <marker date="1560331677592" expanded="true" signature="1840:2427" ph="{...}" />
+            <marker date="1560331677592" expanded="true" signature="1877:1934" ph="{...}" />
+            <marker date="1560331677592" expanded="true" signature="1945:1984" ph="{...}" />
+            <marker date="1560331677592" expanded="true" signature="2229:2399" ph="{...}" />
           </folding>
         </state>
       </provider>

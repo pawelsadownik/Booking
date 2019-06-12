@@ -120,9 +120,6 @@
             </e>
           </e>
         </e>
-        <e p="Repositories" t="Include">
-          <e p="GuestRepositoryTests.cs" t="Include" />
-        </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
