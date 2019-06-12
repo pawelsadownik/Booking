@@ -1,0 +1,11 @@
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.deps.json
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.runtimeconfig.json
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.runtimeconfig.dev.json
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.AssemblyInfoInputs.cache
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.AssemblyInfo.cs
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.dll
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.pdb
+/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.csprojAssemblyReference.cache

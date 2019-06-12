@@ -1,0 +1,30 @@
+GET https://localhost:5001/api/guest/GetGuest/2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://localhost:5001/api/guest/GetGuest/2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://localhost:5001/api/guest/GetGuest/2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST https://localhost:5001/api/guest
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://localhost:5001/api/guest
+Accept: */*
+Cache-Control: no-cache
+
+###
+

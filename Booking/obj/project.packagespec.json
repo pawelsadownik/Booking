@@ -1,0 +1,85 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/pawelsadownik/RiderProjects/Booking/Booking/Booking.csproj",
+    "projectName": "Booking",
+    "projectPath": "/Users/pawelsadownik/RiderProjects/Booking/Booking/Booking.csproj",
+    "outputPath": "/Users/pawelsadownik/RiderProjects/Booking/Booking/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/pawelsadownik/RiderProjects/Booking/Booking.Core/Booking.Core.csproj": {
+            "projectPath": "/Users/pawelsadownik/RiderProjects/Booking/Booking.Core/Booking.Core.csproj"
+          },
+          "/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/Booking.Infrastructure.csproj": {
+            "projectPath": "/Users/pawelsadownik/RiderProjects/Booking/Booking.Infrastructure/Booking.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "DinkToPdf": {
+          "target": "Package",
+          "version": "[1.0.8, )"
+        },
+        "DinkToPdfIncludesDependencies": {
+          "target": "Package",
+          "version": "[1.0.8, )"
+        },
+        "EPPlus": {
+          "target": "Package",
+          "version": "[4.5.3.1, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Cors": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Microsoft.Extensions.FileProviders.Physical": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
