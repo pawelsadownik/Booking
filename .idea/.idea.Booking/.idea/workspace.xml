@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0599b80-c07d-4b9c-b5c9-7e004cb361f3" name="Default Changelist" comment="" />
+    <list default="true" id="b0599b80-c07d-4b9c-b5c9-7e004cb361f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Booking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Booking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Core/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Core/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Core/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Core/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Core/obj/Debug/netcoreapp2.2/Booking.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Core/obj/Debug/netcoreapp2.2/Booking.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Infrastructure/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/Controllers/GuestController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/Controllers/GuestController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/bin/Debug/netcoreapp2.2/Booking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/bin/Debug/netcoreapp2.2/Booking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/bin/Debug/netcoreapp2.2/Booking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/bin/Debug/netcoreapp2.2/Booking.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/dbo.BookingApi.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/obj/Debug/netcoreapp2.2/Booking.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/obj/Debug/netcoreapp2.2/Booking.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/obj/Debug/netcoreapp2.2/Booking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/obj/Debug/netcoreapp2.2/Booking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking/obj/Debug/netcoreapp2.2/Booking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/obj/Debug/netcoreapp2.2/Booking.pdb" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +44,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Booking/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="330">
               <caret line="44" column="47" selection-start-line="44" selection-start-column="6" selection-end-line="46" selection-end-column="76" />
               <folding>
                 <marker date="1560331677592" expanded="false" signature="6:683" ph="..." />
@@ -40,6 +59,93 @@
                 <marker date="1560331677592" expanded="true" signature="1877:1934" ph="{...}" />
                 <marker date="1560331677592" expanded="true" signature="1945:1984" ph="{...}" />
                 <marker date="1560331677592" expanded="true" signature="2229:2399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+              <folding>
+                <marker date="1560412421157" expanded="false" signature="6:207" ph="..." />
+                <marker date="1560412421157" expanded="true" signature="252:3822" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="304:3818" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="420:472" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="524:726" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="773:1103" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="902:1005" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="1039:1076" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="1179:1550" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="1350:1453" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="1487:1524" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="1590:1844" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="1646:1738" ph="/* await _bookingContext.Guests ... */" />
+                <marker date="1560412421157" expanded="true" signature="1888:3048" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="2081:3042" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="2775:2984" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="3087:3354" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="3228:3348" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="3417:3816" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="3564:3694" ph="{...}" />
+                <marker date="1560412421157" expanded="true" signature="3732:3787" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Booking.Infrastructure/Repository/IGuestRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <folding>
+                <marker date="1560356846812" expanded="true" signature="80:154" ph="{...}" />
+                <marker date="1560356846812" expanded="true" signature="139:152" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Booking.Core/Services/GuestService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="42" column="10" selection-start-line="42" selection-end-line="43" />
+              <folding>
+                <marker date="1560352037319" expanded="false" signature="6:201" ph="..." />
+                <marker date="1560352037319" expanded="true" signature="234:2521" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="286:2519" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="407:463" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="520:647" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="701:804" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="883:1015" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="1065:1495" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="1106:1488" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="1549:1987" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="1587:1980" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="1804:1972" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="2034:2101" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="2148:2219" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="2258:2312" ph="{...}" />
+                <marker date="1560352037319" expanded="true" signature="2377:2515" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Booking.Contract/Dto/GuestDto.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="27" column="11" selection-start-line="27" selection-start-column="6" selection-end-line="35" selection-end-column="26" />
+              <folding>
+                <marker date="1560351870714" expanded="true" signature="45:948" ph="{...}" />
+                <marker date="1560351870714" expanded="true" signature="71:946" ph="{...}" />
+                <marker date="1560351870714" expanded="true" signature="490:509" ph="{...}" />
+                <marker date="1560351870714" expanded="true" signature="685:942" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -136,7 +242,6 @@
         <option value="$PROJECT_DIR$/Booking.Contract/Dto/PropertyDto.cs" />
         <option value="$PROJECT_DIR$/Booking/Controllers/PropertyController.cs" />
         <option value="$PROJECT_DIR$/Booking.Infrastructure/Migrations/BookingContextModelSnapshot.cs" />
-        <option value="$PROJECT_DIR$/Booking/Controllers/GuestController.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" />
         <option value="$PROJECT_DIR$/Booking.Infrastructure/Model/Entity.cs" />
         <option value="$PROJECT_DIR$/Booking.Contract/Dto/ReservationDto.cs" />
@@ -166,14 +271,15 @@
         <option value="$PROJECT_DIR$/Booking.Core/Services/IService.cs" />
         <option value="$PROJECT_DIR$/Booking.Infrastructure/Repository/ReservationRepository.cs" />
         <option value="$PROJECT_DIR$/Booking.Core/Services/GuestService.cs" />
-        <option value="$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs" />
         <option value="$PROJECT_DIR$/Booking.Specs/Repositories/GuestRepositoryTests.cs" />
+        <option value="$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs" />
+        <option value="$PROJECT_DIR$/Booking/Controllers/GuestController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="283" />
-    <option name="y" value="-1041" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="630" />
+    <option name="y" value="-1057" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -199,18 +305,23 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Booking.Contract" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Booking.Contract" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dto" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Booking.Core" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Core" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -319,12 +430,12 @@
       <workItem from="1560270648732" duration="8414000" />
       <workItem from="1560280981809" duration="845000" />
       <workItem from="1560283268539" duration="3624000" />
-      <workItem from="1560290514872" duration="32365000" />
+      <workItem from="1560290514872" duration="37842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80772000" />
+    <option name="totallyTimeSpent" value="86249000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,9 +447,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-650" y="-1080" width="2560" height="1080" extended-state="0" />
+    <frame x="630" y="-1057" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12152502" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24717286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -356,7 +468,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32871288" />
       <window_info anchor="bottom" id="REST Client" order="12" weight="0.32743362" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.25247526" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.25109488" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.35742575" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -379,19 +491,6 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Booking.Core/Services/GuestService.cs</url>
-          <line>80</line>
-          <properties documentPath="$PROJECT_DIR$/Booking.Core/Services/GuestService.cs" initialLine="80">
-            <startOffsets>
-              <option value="2047" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2095" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -3082,24 +3181,6 @@
     <entry file="file://$PROJECT_DIR$/Booking.Specs/Booking.Specs.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Booking/Controllers/PdfCreatorController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-          <folding>
-            <marker date="1560340401044" expanded="true" signature="6:241" ph="..." />
-            <marker date="1560340401044" expanded="true" signature="272:2578" ph="{...}" />
-            <marker date="1560340401044" expanded="true" signature="381:2576" ph="{...}" />
-            <marker date="1560340401044" expanded="true" signature="513:611" ph="{...}" />
-            <marker date="1560340401044" expanded="true" signature="760:2570" ph="{...}" />
-            <marker date="1560340401044" expanded="true" signature="895:1269" ph="{...}" />
-            <marker date="1560340401044" expanded="true" signature="1336:1966" ph="{...}" />
-            <marker date="1560340401044" expanded="true" signature="2027:2136" ph="{...}" />
-            <marker date="1560340401044" expanded="true" signature="2322:2509" ph="/* return Ok(&quot;Successfully created PDF document.&quot;); ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/90/45b920dd/Thread.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
@@ -3178,19 +3259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Booking.Contract/Dto/GuestDto.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding>
-            <marker date="1560351870714" expanded="true" signature="45:948" ph="{...}" />
-            <marker date="1560351870714" expanded="true" signature="71:946" ph="{...}" />
-            <marker date="1560351870714" expanded="true" signature="490:509" ph="{...}" />
-            <marker date="1560351870714" expanded="true" signature="685:942" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Booking.Core/Services/IService.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -3224,31 +3292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Booking.Core/Services/GuestService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <marker date="1560352037319" expanded="false" signature="6:201" ph="..." />
-            <marker date="1560352037319" expanded="true" signature="234:2521" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="286:2519" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="407:463" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="520:647" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="701:804" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="883:1015" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="1065:1495" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="1106:1488" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="1549:1987" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="1587:1980" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="1804:1972" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="2034:2101" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="2148:2219" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="2258:2312" ph="{...}" />
-            <marker date="1560352037319" expanded="true" signature="2377:2515" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Booking.Infrastructure/Context/BookingContext.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -3275,25 +3318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Booking/Controllers/GuestController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="37" />
-          <folding>
-            <marker date="1560247558817" expanded="false" signature="6:212" ph="..." />
-            <marker date="1560247558817" expanded="true" signature="243:1278" ph="{...}" />
-            <marker date="1560247558817" expanded="true" signature="344:1276" ph="{...}" />
-            <marker date="1560247558817" expanded="true" signature="454:502" ph="{...}" />
-            <marker date="1560247558817" expanded="true" signature="595:836" ph="{...}" />
-            <marker date="1560247558817" expanded="true" signature="611:706" ph="{...}" />
-            <marker date="1560247558817" expanded="true" signature="745:823" ph="{...}" />
-            <marker date="1560247558817" expanded="true" signature="923:1009" ph="{...}" />
-            <marker date="1560247558817" expanded="true" signature="1101:1272" ph="{...}" />
-            <marker date="1560247558817" expanded="true" signature="1132:1177" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/50/b87ed710/IClassFixture`1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -3308,10 +3332,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Booking.Specs/Repositories/GuestRepositoryTests.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Booking/Controllers/PdfCreatorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+          <folding>
+            <marker date="1560340401044" expanded="false" signature="6:241" ph="..." />
+            <marker date="1560340401044" expanded="true" signature="272:2578" ph="{...}" />
+            <marker date="1560340401044" expanded="true" signature="381:2576" ph="{...}" />
+            <marker date="1560340401044" expanded="true" signature="513:611" ph="{...}" />
+            <marker date="1560340401044" expanded="true" signature="760:2570" ph="{...}" />
+            <marker date="1560340401044" expanded="true" signature="895:1269" ph="{...}" />
+            <marker date="1560340401044" expanded="true" signature="1336:1966" ph="{...}" />
+            <marker date="1560340401044" expanded="true" signature="2027:2136" ph="{...}" />
+            <marker date="1560340401044" expanded="true" signature="2322:2509" ph="/* return Ok(&quot;Successfully created PDF document.&quot;); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Booking/Controllers/GuestController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="64" column="28" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+          <folding>
+            <marker date="1560412774974" expanded="false" signature="6:212" ph="..." />
+            <marker date="1560412774974" expanded="true" signature="288:1769" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="389:1767" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="499:547" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="640:881" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="656:751" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="790:868" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="968:1054" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="1146:1317" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="1177:1222" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="1427:1579" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="1458:1503" ph="{...}" />
+            <marker date="1560412774974" expanded="true" signature="1679:1763" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Booking.Infrastructure/Repository/IGuestRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
           <folding>
             <marker date="1560356846812" expanded="true" signature="80:154" ph="{...}" />
             <marker date="1560356846812" expanded="true" signature="139:152" ph="{...}" />
@@ -3319,42 +3386,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <marker date="1560354622077" expanded="false" signature="6:207" ph="..." />
-            <marker date="1560354622077" expanded="true" signature="252:3516" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="304:3512" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="420:472" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="524:726" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="773:1103" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="902:1005" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="1039:1076" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="1179:1550" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="1350:1453" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="1487:1524" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="1590:1844" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="1646:1738" ph="/* await _bookingContext.Guests ... */" />
-            <marker date="1560354622077" expanded="true" signature="1888:2742" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="2081:2736" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="2469:2678" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="2781:3048" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="2922:3042" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="3111:3510" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="3258:3388" ph="{...}" />
-            <marker date="1560354622077" expanded="true" signature="3426:3481" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Booking.Specs/Repositories/GuestRepositoryTests.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Booking/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="330">
           <caret line="44" column="47" selection-start-line="44" selection-start-column="6" selection-end-line="46" selection-end-column="76" />
           <folding>
             <marker date="1560331677592" expanded="false" signature="6:683" ph="..." />
@@ -3366,6 +3400,74 @@
             <marker date="1560331677592" expanded="true" signature="1877:1934" ph="{...}" />
             <marker date="1560331677592" expanded="true" signature="1945:1984" ph="{...}" />
             <marker date="1560331677592" expanded="true" signature="2229:2399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <marker date="1560412421157" expanded="false" signature="6:207" ph="..." />
+            <marker date="1560412421157" expanded="true" signature="252:3822" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="304:3818" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="420:472" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="524:726" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="773:1103" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="902:1005" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="1039:1076" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="1179:1550" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="1350:1453" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="1487:1524" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="1590:1844" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="1646:1738" ph="/* await _bookingContext.Guests ... */" />
+            <marker date="1560412421157" expanded="true" signature="1888:3048" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="2081:3042" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="2775:2984" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="3087:3354" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="3228:3348" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="3417:3816" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="3564:3694" ph="{...}" />
+            <marker date="1560412421157" expanded="true" signature="3732:3787" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Booking.Contract/Dto/GuestDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="6" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <marker date="1560351870714" expanded="true" signature="45:948" ph="{...}" />
+            <marker date="1560351870714" expanded="true" signature="71:946" ph="{...}" />
+            <marker date="1560351870714" expanded="true" signature="490:509" ph="{...}" />
+            <marker date="1560351870714" expanded="true" signature="685:942" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Booking.Core/Services/GuestService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="42" column="10" selection-start-line="42" selection-end-line="43" />
+          <folding>
+            <marker date="1560352037319" expanded="false" signature="6:201" ph="..." />
+            <marker date="1560352037319" expanded="true" signature="234:2521" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="286:2519" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="407:463" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="520:647" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="701:804" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="883:1015" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="1065:1495" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="1106:1488" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="1549:1987" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="1587:1980" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="1804:1972" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="2034:2101" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="2148:2219" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="2258:2312" ph="{...}" />
+            <marker date="1560352037319" expanded="true" signature="2377:2515" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -86,6 +86,10 @@ namespace Booking.Infrastructure.Repository
         guestToUpdate.CompanyName = entity.FirstName;
         guestToUpdate.Email = entity.FirstName;
         guestToUpdate.DateOfUpdate = DateTime.Now;
+        guestToUpdate.reservation.Price = entity.reservation.Price;
+        guestToUpdate.reservation.ReservationNumber = entity.reservation.ReservationNumber;
+        guestToUpdate.reservation.CheckIn = entity.reservation.CheckIn;
+        guestToUpdate.reservation.CheckOut = entity.reservation.CheckOut;
 
         if (entity.reservation != null && guestToUpdate.reservation != null)
         {
