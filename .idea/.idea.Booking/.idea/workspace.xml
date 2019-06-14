@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0599b80-c07d-4b9c-b5c9-7e004cb361f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Booking/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Booking/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Booking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Booking/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Contract/Dto/GuestDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Contract/Dto/GuestDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Contract/obj/Debug/netcoreapp2.2/Booking.Contract.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Contract/obj/Debug/netcoreapp2.2/Booking.Contract.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Core/Services/GuestService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Core/Services/GuestService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Core/obj/Debug/netcoreapp2.2/Booking.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Core/obj/Debug/netcoreapp2.2/Booking.Core.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Infrastructure/Model/Guest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Infrastructure/Model/Guest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Infrastructure/Repository/GuestRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Infrastructure/obj/Debug/netcoreapp2.2/Booking.Infrastructure.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Contract.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Contract.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Contract.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Contract.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Specs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Specs.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Specs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.Specs.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/bin/Debug/netcoreapp2.2/Booking.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Specs/obj/Booking.Specs.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/obj/Booking.Specs.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Specs/obj/Booking.Specs.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/obj/Booking.Specs.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Booking.Specs/obj/Debug/netcoreapp2.2/Booking.Specs.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/obj/Debug/netcoreapp2.2/Booking.Specs.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/obj/Debug/netcoreapp2.2/Booking.Specs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/obj/Debug/netcoreapp2.2/Booking.Specs.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking.Specs/obj/Debug/netcoreapp2.2/Booking.Specs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/obj/Debug/netcoreapp2.2/Booking.Specs.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking/Controllers/GuestController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/Controllers/GuestController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking/Controllers/PdfCreatorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/Controllers/PdfCreatorController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking/Controllers/StatisticController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/Controllers/StatisticController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking/dbo.BookingApi.db" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/dbo.BookingApi.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Booking/obj/Debug/netcoreapp2.2/Booking.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Booking/obj/Debug/netcoreapp2.2/Booking.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Booking.Specs/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Booking.Specs/obj/project.assets.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,12 +30,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Booking/Controllers/PdfCreatorController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+            <state relative-caret-position="169">
+              <caret line="66" column="51" lean-forward="true" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
               <folding>
                 <marker date="1560430924762" expanded="false" signature="6:241" ph="..." />
                 <marker date="1560430924762" expanded="true" signature="272:2653" ph="{...}" />
@@ -225,9 +203,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="630" />
-    <option name="y" value="-1057" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -237,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -244,68 +222,11 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Contract" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Contract" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dto" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Core" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Core" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Model" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Booking" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Booking.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Repository" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -396,12 +317,13 @@
       <workItem from="1560270648732" duration="8414000" />
       <workItem from="1560280981809" duration="845000" />
       <workItem from="1560283268539" duration="3624000" />
-      <workItem from="1560290514872" duration="48472000" />
+      <workItem from="1560290514872" duration="48805000" />
+      <workItem from="1560495877682" duration="790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96879000" />
+    <option name="totallyTimeSpent" value="98002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,10 +335,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="630" y="-1057" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24717286" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25121164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -434,7 +355,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32871288" />
       <window_info anchor="bottom" id="REST Client" order="12" weight="0.32743362" />
-      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.41167882" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.41167882" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.3562044" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -2867,8 +2788,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Booking/Controllers/PdfCreatorController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        <state relative-caret-position="169">
+          <caret line="66" column="51" lean-forward="true" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
           <folding>
             <marker date="1560430924762" expanded="false" signature="6:241" ph="..." />
             <marker date="1560430924762" expanded="true" signature="272:2653" ph="{...}" />
