@@ -66,7 +66,7 @@ namespace Booking.Controllers
       }
 
       await _guestService.Update(guest);
-      return Ok("Updated");
+      return Ok();
     }
     
     [HttpDelete("DeleteGuest/{id}")]
@@ -74,7 +74,7 @@ namespace Booking.Controllers
     {
      
       await _guestService.Delete(id);
-      return Ok("Deleted");
+      return Ok();
     }
   }
 }

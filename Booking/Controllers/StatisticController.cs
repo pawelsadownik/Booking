@@ -32,7 +32,19 @@ namespace Booking.Controllers
         return sum;
     }
     
-    
+    [HttpGet("GetStatistics")]
+    public decimal  GetStatisticsByAll()
+    {
+      decimal sum = 0;
+      var guests = _guestService.GetAll();
+      
+      for (int i = 0; i < guests.Result.Count(); i++ )
+      {
+        sum += guests.Result.ElementAtOrDefault(i).Price;
+        
+      }
+      return sum;
+    }
     
   }
 }

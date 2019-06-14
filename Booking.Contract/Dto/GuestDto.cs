@@ -4,6 +4,9 @@ namespace Booking.Contract.DTO
 {
   public class GuestDto
   {
+    
+    //dodano ID
+    public long Id { get; set; }
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public string Email { get; set; }
@@ -19,7 +22,7 @@ namespace Booking.Contract.DTO
     public DateTime CheckOut { get; set; }
 
 
-    public GuestDto()
+    /*public GuestDto()
     {
       
     }
@@ -34,6 +37,6 @@ namespace Booking.Contract.DTO
       ReservationNumber = reservationNumber;
       CheckIn = checkIn;
       CheckOut = checkOut;
-    }
+    }*/
   }
 }

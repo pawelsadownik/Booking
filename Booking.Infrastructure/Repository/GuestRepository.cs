@@ -21,7 +21,7 @@ namespace Booking.Infrastructure.Repository
     {
       var guests = await _bookingContext.Guests.ToListAsync();
       
-      guests.ForEach(x => { _bookingContext.Entry(x).Reference(y => y.reservation).LoadAsync();});
+      guests.ForEach(x => { _bookingContext.Entry(x).Reference(y => y.Reservation).LoadAsync();});
       return guests;
     }
 
@@ -33,7 +33,7 @@ namespace Booking.Infrastructure.Repository
 
       try
       {
-        await _bookingContext.Entry(guest).Reference(x => x.reservation).LoadAsync();
+        await _bookingContext.Entry(guest).Reference(x => x.Reservation).LoadAsync();
 
       }
       catch (ArgumentException e)
@@ -47,12 +47,12 @@ namespace Booking.Infrastructure.Repository
     public async Task<Guest> GetByReservationNumber(int reservationNumber)
     {
       var guest = await _bookingContext.Guests
-        .Where(x => x.reservation.ReservationNumber == reservationNumber)
+        .Where(x => x.Reservation.ReservationNumber == reservationNumber)
         .SingleOrDefaultAsync();
 
       try
       {
-        await _bookingContext.Entry(guest).Reference(x => x.reservation).LoadAsync();
+        await _bookingContext.Entry(guest).Reference(x => x.Reservation).LoadAsync();
 
       }
       catch (ArgumentException e)
@@ -75,27 +75,27 @@ namespace Booking.Infrastructure.Repository
     public async Task Update(Guest entity)
     {
       var guestToUpdate = await _bookingContext.Guests
-        .Include(x => x.reservation)
+        .Include(x => x.Reservation)
         .SingleOrDefaultAsync(x => x.Id == entity.Id);
       
       if (guestToUpdate != null)
       {
         guestToUpdate.FirstName = entity.FirstName;
-        guestToUpdate.LastName = entity.FirstName;
-        guestToUpdate.Nip = entity.FirstName;
-        guestToUpdate.CompanyName = entity.FirstName;
-        guestToUpdate.Email = entity.FirstName;
+        guestToUpdate.LastName = entity.LastName;
+        guestToUpdate.Nip = entity.Nip;
+        guestToUpdate.CompanyName = entity.CompanyName;
+        guestToUpdate.Email = entity.Email;
         guestToUpdate.DateOfUpdate = DateTime.Now;
-        guestToUpdate.reservation.Price = entity.reservation.Price;
-        guestToUpdate.reservation.ReservationNumber = entity.reservation.ReservationNumber;
-        guestToUpdate.reservation.CheckIn = entity.reservation.CheckIn;
-        guestToUpdate.reservation.CheckOut = entity.reservation.CheckOut;
+        guestToUpdate.Reservation.Price = entity.Reservation.Price;
+        guestToUpdate.Reservation.ReservationNumber = entity.Reservation.ReservationNumber;
+        guestToUpdate.Reservation.CheckIn = entity.Reservation.CheckIn;
+        guestToUpdate.Reservation.CheckOut = entity.Reservation.CheckOut;
 
-        if (entity.reservation != null && guestToUpdate.reservation != null)
+        if (entity.Reservation != null && guestToUpdate.Reservation != null)
         {
-          entity.reservation.Id = guestToUpdate.reservation.Id;
+          entity.Reservation.Id = guestToUpdate.Reservation.Id;
                     
-          _bookingContext.Entry(guestToUpdate.reservation).CurrentValues.SetValues(entity.reservation);
+          _bookingContext.Entry(guestToUpdate.Reservation).CurrentValues.SetValues(entity.Reservation);
         }
         await _bookingContext.SaveChangesAsync();
       }
@@ -114,11 +114,11 @@ namespace Booking.Infrastructure.Repository
     public async Task<IEnumerable<Guest>> GetByTime(int year)
     {
       var guests = await _bookingContext.Guests
-        .Where(x => x.reservation.CheckOut.Year == year)
+        .Where(x => x.Reservation.CheckOut.Year == year)
         .ToListAsync();
         try
           {
-            guests.ForEach(x => { _bookingContext.Entry(x).Reference(y => y.reservation).LoadAsync();});
+            guests.ForEach(x => { _bookingContext.Entry(x).Reference(y => y.Reservation).LoadAsync();});
 
           }
           catch (ArgumentException e)

@@ -59,10 +59,12 @@ namespace Booking.Controllers
             //_converter.Convert(pdf); IF WE USE Out PROPERTY IN THE GlobalSettings CLASS, THIS IS ENOUGH FOR CONVERSION
 
             var file = _converter.Convert(pdf);
-
+            string invoiceName = "Faktura nr " + DateTime.Now.ToString("dd.MM.yyyy")+"-"+DateTime.Now.Millisecond+".pdf";
+            
             //return Ok("Successfully created PDF document.");
-            //return File(file, "application/pdf", "EmployeeReport.pdf"); //USE THIS RETURN STATEMENT TO DOWNLOAD GENERATED PDF DOCUMENT
-            return File(file, "application/pdf");
+            
+            return File(file, "application/pdf", invoiceName);
+            //return File(file, "application/pdf");
 
         }
     }

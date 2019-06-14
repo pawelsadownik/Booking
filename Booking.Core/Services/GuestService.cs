@@ -43,16 +43,16 @@ namespace Booking.Core.Services
     private GuestDto GuestDtoMapper(Guest guest)
     {
       return new GuestDto()
-      {
+      { Id = guest.Id,
         FirstName = guest.FirstName,
         LastName = guest.LastName,
         Email = guest.Email,
         CompanyName = guest.CompanyName,
         Nip = guest.Nip,
-        Price = guest.reservation.Price,
-        ReservationNumber = guest.reservation.ReservationNumber,
-        CheckIn = guest.reservation.CheckIn,
-        CheckOut = guest.reservation.CheckOut
+        Price = guest.Reservation.Price,
+        ReservationNumber = guest.Reservation.ReservationNumber,
+        CheckIn = guest.Reservation.CheckIn,
+        CheckOut = guest.Reservation.CheckOut
         
       };
     }
@@ -66,7 +66,8 @@ namespace Booking.Core.Services
         Email = guest.Email,
         CompanyName = guest.CompanyName,
         Nip = guest.Nip,
-        reservation = new Reservation()
+        Id = guest.Id,
+        Reservation = new Reservation()
         {
           Price = guest.Price,
           ReservationNumber = guest.ReservationNumber,

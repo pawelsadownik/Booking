@@ -12,7 +12,7 @@ namespace Booking.Infrastructure.Model
         public string Email { get; set; }
         public string CompanyName { get; set; }
         public string Nip { get; set; }     
-        public Reservation reservation { get; set; }
+        public Reservation Reservation { get; set; }
 
     
   }
